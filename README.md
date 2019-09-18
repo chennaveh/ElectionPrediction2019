@@ -1,5 +1,5 @@
 # ElectionPrediction2019
-Prediction of Israel elections by analyzing tweets using compression algorithms
+Prediction of Israel elections by analysing tweets using compression algorithms
 
 # Dataset
 The data set was collected using tweepy searching for the following tags:
